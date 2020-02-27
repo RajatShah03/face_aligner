@@ -1,4 +1,4 @@
 numpy
 dlib
 pillow
-cv2
+opencv-python
