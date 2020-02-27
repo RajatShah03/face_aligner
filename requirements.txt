@@ -1,0 +1,4 @@
+numpy
+dlib
+pillow
+cv2
